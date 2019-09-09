@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="wilsonze@gmail.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry (minikube)" />
+      <option name="username" value="zwilson" />
+    </DockerRegistry>
+    <DockerRegistry email="wilsonze@gmail.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry (Docker for Mac)" />
+      <option name="username" value="zwilson" />
+    </DockerRegistry>
+  </component>
+</application>
