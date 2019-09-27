@@ -1,5 +1,8 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="inactiveTimeout" value="300" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
