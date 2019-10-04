@@ -1,5 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (btcwatch) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/src" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-855128275" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/.venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Projects/repos/btcwatch/src" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-855128275" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (ptax-DsR0p10L) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7" />
