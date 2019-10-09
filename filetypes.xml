@@ -15,6 +15,7 @@
       <mapping pattern=".coveragerc" type="Ini" />
       <mapping pattern="Makefile-docker" type="Makefile" />
       <mapping pattern="Makfile-pipenv" type="Makefile" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
