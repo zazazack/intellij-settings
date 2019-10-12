@@ -1,10 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="2" />
-    </value>
-  </option>
   <option name="SOFT_MARGINS" value="80,120" />
   <DBN-PSQL>
     <case-options enabled="false">
