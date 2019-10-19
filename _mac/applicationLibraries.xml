@@ -29,60 +29,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (ptax) (2) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1144652720" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1144652720" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (ptax) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1144652720" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/.venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1144652720" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
@@ -105,7 +51,6 @@
         <root url="file:///usr/local/lib/python3.7/site-packages/graphql_core-3.0.0a2-py3.7.egg" />
         <root url="file:///usr/local/lib/python3.7/site-packages/aniso8601-7.0.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Projects/repos/timer/src" />
-        <root url="file:///usr/local/Cellar/numpy/1.16.4_1/libexec/nose/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
@@ -135,7 +80,6 @@
         <root url="file:///usr/local/lib/python3.7/site-packages/graphql_core-3.0.0a2-py3.7.egg" />
         <root url="file:///usr/local/lib/python3.7/site-packages/aniso8601-7.0.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Projects/repos/timer/src" />
-        <root url="file:///usr/local/Cellar/numpy/1.16.4_1/libexec/nose/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
