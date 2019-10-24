@@ -1,0 +1,5 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="EDITOR_PRIO" value="TABLE_FIRST" />
+  </component>
+</application>
