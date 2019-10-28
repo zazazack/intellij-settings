@@ -1,6 +1,6 @@
 <application>
   <component name="DerrickOptionProvider">
-    <option name="derrickExecPath" value="$USER_HOME$/.pyenv/shims/derrick" />
+    <option name="derrickExecPath" value="derrick" />
     <option name="dockerRegistries">
       <list>
         <DockerRegistryConfiguration>
