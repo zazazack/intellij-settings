@@ -1,0 +1,16 @@
+<application>
+  <component name="DerrickOptionProvider">
+    <option name="derrickExecPath" value="$USER_HOME$/.pyenv/shims/derrick" />
+    <option name="dockerRegistries">
+      <list>
+        <DockerRegistryConfiguration>
+          <option name="email" value="wilsonze@gmail.com" />
+          <option name="name" value="Docker Hub" />
+          <option name="password" value="kn0W-thys3lF" />
+          <option name="url" value="registry.hub.docker.com" />
+          <option name="username" value="zwilson" />
+        </DockerRegistryConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
