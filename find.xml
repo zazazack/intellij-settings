@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/jpm360'" />
-    <option name="defaultScopeName" value="Directory '.../src/jpm360'" />
+    <option name="customScope" value="Source &amp; Tests" />
+    <option name="defaultScopeName" value="Source &amp; Tests" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/jpm360'" />
+    <option name="SEARCH_SCOPE" value="Source &amp; Tests" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
