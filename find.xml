@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Source &amp; Tests" />
-    <option name="defaultScopeName" value="Source &amp; Tests" />
+    <option name="customScope" value="File '.../src/ptax/data_dictionary.py'" />
+    <option name="defaultScopeName" value="File '.../src/ptax/data_dictionary.py'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Source &amp; Tests" />
+    <option name="SEARCH_SCOPE" value="File '.../src/ptax/data_dictionary.py'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
