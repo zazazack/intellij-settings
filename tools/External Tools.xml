@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     </exec>
   </tool>
+  <tool name="docker-machine" description="Start `default` Docker VM" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Docker.app/Contents/Resources/bin/docker" />
+      <option name="PARAMETERS" value="start" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Docker.app/Contents/Resources/bin" />
+    </exec>
+  </tool>
 </toolSet>
