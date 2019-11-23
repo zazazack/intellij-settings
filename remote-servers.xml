@@ -12,5 +12,12 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker Machine" type="docker">
+      <configuration>
+        <option name="apiUrl" />
+        <option name="certificatesPath" />
+        <option name="machine" value="default" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
