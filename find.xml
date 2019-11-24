@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src'" />
-    <option name="defaultScopeName" value="Directory '.../src'" />
+    <option name="customScope" value="Project 'ptax'" />
+    <option name="defaultScopeName" value="Project 'ptax'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src'" />
+    <option name="SEARCH_SCOPE" value="Project 'ptax'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>

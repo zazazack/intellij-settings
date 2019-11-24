@@ -1,0 +1,25 @@
+<application>
+  <component name="LSPState">
+    <option name="forcedAssociations">
+      <map>
+        <entry>
+          <key>
+            <array>
+              <option value="file://$USER_HOME$/Projects/repos/ptax/src/ptax/etl/functions.py" />
+              <option value="file://$USER_HOME$/Projects/repos/ptax/" />
+            </array>
+          </key>
+          <value>
+            <array>
+              <option value="exe" />
+              <option value="xml;json;txt" />
+              <option value="node" />
+              <option value="$APPLICATION_PLUGINS_DIR$/org.jboss.tools.intellij.analytics/lib/server/server.js" />
+              <option value="--stdio" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
