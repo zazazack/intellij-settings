@@ -4,7 +4,7 @@
     <property name="created">2019-11-25T17:18:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-25T21:55:51</property>
+    <property name="modified">2019-11-25T22:31:12</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2304,7 +2304,7 @@
         <option name="FOREGROUND" value="5cc5" />
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2670,7 +2670,7 @@
       <value>
         <option name="FOREGROUND" value="5cc5" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3785,7 +3785,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3793,7 +3793,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3810,7 +3810,7 @@
       <value>
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3827,7 +3827,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -4360,7 +4360,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -4382,7 +4382,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -4390,7 +4390,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -4407,7 +4407,7 @@
       <value>
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -4422,7 +4422,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -6352,7 +6352,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -6396,7 +6396,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="a7e6d9" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -6957,7 +6957,7 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
         <option name="BACKGROUND" value="cce5ff" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -6980,7 +6980,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9334,7 +9334,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9343,7 +9343,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="cce5ff" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9378,7 +9378,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="a7e6d9" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9939,7 +9939,7 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
         <option name="BACKGROUND" value="cce5ff" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9962,7 +9962,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -9988,7 +9988,7 @@
       <value>
         <option name="BACKGROUND" value="a7e6d9" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -10004,7 +10004,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="a7e6d9" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -12191,7 +12191,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -12199,7 +12199,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -12233,7 +12233,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -12788,7 +12788,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -14972,7 +14972,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -15014,7 +15014,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -15569,7 +15569,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -15577,7 +15577,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -17877,7 +17877,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -17886,7 +17886,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="cce5ff" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -17921,7 +17921,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="a7e6d9" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -18482,7 +18482,7 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
         <option name="BACKGROUND" value="cce5ff" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -18505,7 +18505,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -18514,7 +18514,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="cce5ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -20855,7 +20855,7 @@
       <value>
         <option name="BACKGROUND" value="c0d6ed" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -20864,7 +20864,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="cce5ff" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -21492,7 +21492,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="cce5ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -23710,7 +23710,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -23718,7 +23718,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -23735,7 +23735,7 @@
       <value>
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -23752,7 +23752,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -24307,7 +24307,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -24347,7 +24347,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -26492,7 +26492,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -26500,7 +26500,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -26517,7 +26517,7 @@
       <value>
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -26534,7 +26534,7 @@
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -27067,7 +27067,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -27089,7 +27089,7 @@
       <value>
         <option name="BACKGROUND" value="ececec" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -27129,7 +27129,7 @@
       <value>
         <option name="FOREGROUND" value="32f62" />
         <option name="BACKGROUND" value="ccffd7" />
-        <option name="EFFECT_COLOR" value="8b4354" />
+        <option name="EFFECT_COLOR" value="8b4353" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
