@@ -31,6 +31,7 @@
     </formatting-settings>
   </DBN-SQL>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="TOC_FORMAT_ON_SAVE" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
