@@ -10,5 +10,10 @@
       <option name="name" value="Docker Registry (Docker for Mac)" />
       <option name="username" value="zwilson" />
     </DockerRegistry>
+    <DockerRegistry email="" password="">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Desktop" />
+      <option name="username" value="" />
+    </DockerRegistry>
   </component>
 </application>
