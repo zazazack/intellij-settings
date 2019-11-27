@@ -1,4 +1,9 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+  </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
