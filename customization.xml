@@ -1,0 +1,59 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="OpenInSceneBuilder" is_action="true" action_type="-1" position="42">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Scala.Desugar" is_action="true" action_type="-1" position="41">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Gradle.ImportExternalProject" is_action="true" action_type="-1" position="40">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Maven.AddFileAsMavenProject" is_action="true" action_type="-1" position="38">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="net.seesharpsoft.intellij.plugins.csv.actions.CsvChangeSeparatorActionGroup" is_group="true" action_type="-1" position="37">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="de.cronn.validation_files_diff.action.ValidationDiffAction" is_action="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaterialTheme.Components" is_group="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MaterialTheme.ThemeChooser" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Dart.DartStyle" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="actions.EditorAction" is_group="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DBNavigator.Actions.MainMenu" is_group="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
