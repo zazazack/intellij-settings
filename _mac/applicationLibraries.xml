@@ -44,114 +44,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Pipenv (DataWranglingWithPyspark) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1820360439" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/DataWranglingWithPyspark-PYmrwBm5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1820360439" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (hcad) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-169319819" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/hcad-c87njZu7/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-169319819" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (jpm360) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7/lib-dynload" />
-        <root url="file:///Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-874139397" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7/lib-dynload" />
-        <root url="file:///Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/jpm360-ISlsvkLF/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-874139397" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (ptax) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1286089926" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/ptax-DsR0p10L/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/1286089926" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Pipenv (workflow) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/workflow-qM49lsf_/lib/python3.6" />
@@ -172,6 +64,31 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
         <root url="file://$USER_HOME$/.local/share/virtualenvs/workflow-qM49lsf_/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-316571629" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (covid-19) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-560808628" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7" />
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-560808628" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -244,41 +161,6 @@
         <root url="file:///usr/local/lib/python3.7/site-packages/graphql_core-3.0.0a2-py3.7.egg" />
         <root url="file:///usr/local/lib/python3.7/site-packages/aniso8601-7.0.0-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.8 interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/src" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/pyspark-2.4.4-py3.8.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/Click-7.0-py3.8.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/py4j-0.10.7-py3.8.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/167561984" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/src" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/pyspark-2.4.4-py3.8.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/Click-7.0-py3.8.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/site-packages/py4j-0.10.7-py3.8.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/167561984" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
