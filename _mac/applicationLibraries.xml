@@ -9,33 +9,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="miniconda3-latest interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/src" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1752933795" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Projects/repos/ptax/src" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1752933795" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="org.jmockit:jmockit-coverage:1.18" type="repository">
       <properties maven-id="org.jmockit:jmockit-coverage:1.18" />
       <CLASSES>
@@ -89,101 +62,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/Projects/repos/srewcatf3/.venv/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1140379709" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (covid-19) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-560808628" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/envs/covid-19/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-560808628" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (dashboard) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Flask-1.1.2-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/itsdangerous-1.1.0-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Werkzeug-1.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Jinja2-3.0.0a1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/MarkupSafe-2.0.0a1-py3.7-macosx-10.9-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-1026377578" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Flask-1.1.2-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/itsdangerous-1.1.0-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Werkzeug-1.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Jinja2-3.0.0a1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/MarkupSafe-2.0.0a1-py3.7-macosx-10.9-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-1026377578" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (pymarked) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Flask-1.1.2-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/itsdangerous-1.1.0-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Werkzeug-1.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Jinja2-3.0.0a1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/MarkupSafe-2.0.0a1-py3.7-macosx-10.9-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-1026377578" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Flask-1.1.2-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/itsdangerous-1.1.0-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Werkzeug-1.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/Jinja2-3.0.0a1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.7/site-packages/MarkupSafe-2.0.0a1-py3.7-macosx-10.9-x86_64.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/-1026377578" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -281,35 +159,6 @@
         <root url="file://$USER_HOME$/.pyenv/versions/miniconda3-latest/lib/python3.8/lib-dynload" />
         <root url="file://$USER_HOME$/Development/Projects/ptax/.venv/lib/python3.8/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1193673458" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.8 (pymarked) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/pymarked/lib/python3.8/site-packages" />
-        <root url="jar://$USER_HOME$/pymarked/lib/python3.8/site-packages/setuptools-40.8.0-py3.8.egg!/" />
-        <root url="file://$USER_HOME$/pymarked/lib/python3.8/site-packages/pip-19.0.3-py3.8.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1365521741" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.1/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/pymarked/lib/python3.8/site-packages" />
-        <root url="jar://$USER_HOME$/pymarked/lib/python3.8/site-packages/setuptools-40.8.0-py3.8.egg!/" />
-        <root url="file://$USER_HOME$/pymarked/lib/python3.8/site-packages/pip-19.0.3-py3.8.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.3/python_stubs/1365521741" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
