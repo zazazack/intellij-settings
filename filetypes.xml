@@ -9,11 +9,10 @@
       <mapping pattern="Makfile-pipenv" type="Makefile" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".runtime_info0" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".runtime_info0" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping pattern="conftest" type="Python" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
